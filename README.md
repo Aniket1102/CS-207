@@ -8,14 +8,16 @@
 ### Materials Required
  
 •	Arduino Uno
-•	Relay
-•	Ultrasonic sensor
-•	Air pump
-•	Servo motor
-•	Temperature sensor
-•	Cardboard
+•	Relay 5V Low Level Trigger One 1 Channel Relay Module Interface Board Shield DC AC 220V
+•	HC-SR04 Ultrasonic sensor
+•	DC 6V 380mA 500mmHg Micro Air pump 
+•	Servo motor 
+•	Temperature sensor 
+•	Cardboard 
 •	Pipe
 •	Wires
+
+
 
 
 
