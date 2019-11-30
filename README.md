@@ -17,6 +17,8 @@
 •	Pipe
 •	Wires
 
+### Wire Diagram
+
 
 
 
