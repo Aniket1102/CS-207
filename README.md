@@ -17,8 +17,8 @@ The basic concept of this is as the ultrasonic sensor detects the glass which is
 •	Servo motor 
 •	Temperature sensor 
 •	Cardboard 
-•	Pipe
-•	Wires
+•	2 tubes
+•	jumper Wires (female to female, male to male and male to female)
 
 ### Wire Diagram
 
