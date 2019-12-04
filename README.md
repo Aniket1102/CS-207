@@ -23,7 +23,8 @@ jumper Wires (female to female, male to male and male to female)
 
 
 ### Wire Diagram
-circuit diagram.pdf
+
+<img width="672" alt="Wire Diagram" src="https://user-images.githubusercontent.com/56104171/70190354-5640bc80-16bb-11ea-96ce-50b9154da458.png">
 
 
 
