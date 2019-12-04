@@ -19,7 +19,7 @@ Temperature sensor,
 2 tubes,
 Glue gun,
 Carboard,
-jumper Wires (female to female, male to male and male to female),
+jumper Wires (female to female, male to male and male to female)
 
 
 ### Wire Diagram
