@@ -10,15 +10,17 @@ The basic concept of this is as the ultrasonic sensor detects the glass which is
 
 ### Materials Required
  
-•	Arduino Uno
-•	Relay 5V Low Level Trigger One 1 Channel Relay Module Interface Board Shield DC AC 220V
-•	HC-SR04 Ultrasonic sensor
-•	DC 6V 380mA 500mm Hg Micro Air pump 
-•	Servo motor 
-•	Temperature sensor 
-•	Cardboard 
-•	2 tubes
-•	jumper Wires (female to female, male to male and male to female)
+Arduino Uno
+Relay 5V Low Level Trigger One 1 Channel Relay Module Interface Board Shield DC AC 220V
+HC-SR04 Ultrasonic sensor
+DC 6V 380mA 500mm Hg Micro Air pump 
+Servo motor 
+Temperature sensor 
+2 tubes
+Glue gun
+Carboard 
+jumper Wires (female to female, male to male and male to female)
+
 
 ### Wire Diagram
 
