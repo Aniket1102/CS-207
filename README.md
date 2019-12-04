@@ -23,6 +23,7 @@ jumper Wires (female to female, male to male and male to female)
 
 
 ### Wire Diagram
+circuit diagram.pdf
 
 
 
