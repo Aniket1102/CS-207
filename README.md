@@ -26,6 +26,12 @@ jumper Wires (female to female, male to male and male to female)
 
 ![Fritzing_bb](https://user-images.githubusercontent.com/56104171/70265329-c143cf00-175f-11ea-8cf7-0a8c1d708158.jpg)
 
+### Procrdure 
+
+1. With the help of cardboard make a structure which is shown in the picture.
+
+#### 1
+
 
 
 
