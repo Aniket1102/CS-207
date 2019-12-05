@@ -30,7 +30,7 @@ jumper Wires (female to female, male to male and male to female)
 
 1. With the help of cardboard make a structure which is shown in the picture.
 
-#### 1 ![IMG_20191204_164316](https://user-images.githubusercontent.com/56104171/70272089-48e40a80-176d-11ea-92c5-5cc996317736.jpg)
+#### Image 1 (Front) ![IMG_20191204_164316](https://user-images.githubusercontent.com/56104171/70272089-48e40a80-176d-11ea-92c5-5cc996317736.jpg)
 
 
 
