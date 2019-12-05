@@ -38,7 +38,9 @@ jumper Wires (female to female, male to male and male to female)
 
 3. Attach one tube from the air pump inside the tank(bottle), keep it above the surface of water, than attach the main pipe from where water will flow in glass to the botton surface of the tank. look at image 3 for better understanding.
 
-#### Image 3 (air pump with tube) 
+#### Image 3 (air pump with tube)  <img width="948" alt="Untitled" src="https://user-images.githubusercontent.com/56104171/70274276-75018a80-1771-11ea-9ad2-eb6fdebc67ff.png">
+
+
 
 
 
