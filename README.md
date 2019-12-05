@@ -24,7 +24,8 @@ jumper Wires (female to female, male to male and male to female)
 
 ### Wire Diagram
 
-<img width="672" alt="Wire Diagram" src="https://user-images.githubusercontent.com/56104171/70190354-5640bc80-16bb-11ea-96ce-50b9154da458.png">
+![Fritzing_bb](https://user-images.githubusercontent.com/56104171/70265329-c143cf00-175f-11ea-8cf7-0a8c1d708158.jpg)
+
 
 
 
