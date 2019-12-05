@@ -34,6 +34,12 @@ jumper Wires (female to female, male to male and male to female)
 
 #### Image 2 (Back) ![IMG_20191204_164324](https://user-images.githubusercontent.com/56104171/70272112-51d4dc00-176d-11ea-8a9f-3aa70cea20e7.jpg)
 
+2. With the help of the circuit diagram make a circuit before assembling it into the machine.
+
+3. Attach one tube from the air pump inside the tank(bottle), keep it above the surface of water, than attach the main pipe from where water will flow in glass to the botton surface of the tank. look at image 3 for better understanding.
+
+#### Image 3 (air pump with tube) 
+
 
 
 
