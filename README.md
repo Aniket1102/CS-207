@@ -68,7 +68,7 @@ Building guide :
 
 #### Image 4 (Circuit setup on dispensing machine) ![IMG_20191206_115608](https://user-images.githubusercontent.com/56104171/70349960-6677a980-182b-11ea-8620-f21dfcfef896.jpg)
 
-#### Image 5 (Front view with circuit)
+#### Image 5 (Front view with circuit) ![IMG_20191206_115546](https://user-images.githubusercontent.com/56104171/70358425-ee1ae380-183e-11ea-9506-864b5d2a727c.jpg)
 
 For more details click on the link :
 
