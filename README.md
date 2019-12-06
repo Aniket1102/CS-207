@@ -55,6 +55,7 @@ Building guide :
 #### Image 3 (Air pump with tube)  <img width="948" alt="Untitled" src="https://user-images.githubusercontent.com/56104171/70274276-75018a80-1771-11ea-9ad2-eb6fdebc67ff.png">
 
 For more details click on the link :
+For understanding what is the principle and concept behind it you can download my paper here : 
 
 
 
