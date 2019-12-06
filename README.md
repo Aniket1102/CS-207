@@ -66,11 +66,13 @@ Building guide :
 
 4.Setup the circuit and all the parts on dispensing machine as shown in the image
 
+#### Image 4 (Circuit setup on dispensing machine) ![IMG_20191206_115608](https://user-images.githubusercontent.com/56104171/70349960-6677a980-182b-11ea-8620-f21dfcfef896.jpg)
+
 For more details click on the link :
 
 For understanding what is the principle and concept behind it you can download my paper here : 
 
-#### Image 4 (Circuit setup on dispensing machine) ![IMG_20191206_115608](https://user-images.githubusercontent.com/56104171/70349960-6677a980-182b-11ea-8620-f21dfcfef896.jpg)
+
 
 
 
