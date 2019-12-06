@@ -36,9 +36,23 @@ jumper Wires (female to female, male to male and male to female)
 
 2. With the help of the circuit diagram make a circuit before assembling it into the machine.
 
+Building guide :
+
+2.A The main circuit is placed above the tank which consists of Arduino Uno, Relay (5V Low Level Trigger One 1 Channel Relay Module Interface Board Shield DC AC 220V), Micro Air pump (DC 6V 380mA 500mm Hg), tubes. The ultrasonic sensor has 4 pins namely Vcc, ground, echo and trigo.
+
+2.B The echo and trigo are connected to Arduino to pins 4 and 8 respectively. The Vcc and the ground pin is connected to the 5 volts and ground.
+
+2.C The relay is connected to Arduino via pin 7.
+
+2.D The air pump’s positive terminal is connected to NO (normally open) pin of relay and the negative terminal is connected to COM (common) pin of relay.
+
+2.E The Arduino is powered the battery case which provides 7.5 volts each with 1.5 volts cells.
+
+2.F The ice dispensing is separately connected to the Arduino through servo motor and temperature sensor which are connected to pins 2 and A1 respectively. 
+
 3. Attach one tube from the air pump inside the tank(bottle), keep it above the surface of water, than attach the main pipe from where water will flow in glass to the botton surface of the tank. look at image 3 for better understanding.
 
-#### Image 3 (air pump with tube)  <img width="948" alt="Untitled" src="https://user-images.githubusercontent.com/56104171/70274276-75018a80-1771-11ea-9ad2-eb6fdebc67ff.png">
+#### Image 3 (Air pump with tube)  <img width="948" alt="Untitled" src="https://user-images.githubusercontent.com/56104171/70274276-75018a80-1771-11ea-9ad2-eb6fdebc67ff.png">
 
 
 
