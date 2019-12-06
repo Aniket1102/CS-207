@@ -74,7 +74,7 @@ For understanding what is the principle and concept behind it you can download m
 
 #### References
 
-YouTube, YouTube, https://www.youtube.com/watch?v=uJ9r2lP-ARA5.	YouTube, YouTube, https://www.youtube.com/watch?v=uJ9r2lP-ARA
+YouTube, YouTube, https://www.youtube.com/watch?v=uJ9r2lP-ARA5.
 
 
 
