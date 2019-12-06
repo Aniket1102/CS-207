@@ -70,9 +70,10 @@ Building guide :
 
 #### Image 5 (Front view with circuit) ![IMG_20191206_115546](https://user-images.githubusercontent.com/56104171/70358425-ee1ae380-183e-11ea-9506-864b5d2a727c.jpg)
 
-For more details click on the link :
+For more details click on the link : 
 
-For understanding what is the principle and concept behind it you can download my paper here : 
+For understanding what is the principle and concept behind it you can download my paper here : https://drive.google.com/file/d/11v0l74BHOayLfW9Zj6dV5jHWvMlnzZl_/view?usp=sharing
+
 
 #### References
 
